@@ -2,7 +2,7 @@
 
 ![Image](./image.png)
 
-This is a simple game I wrote with Pygame about surviving in space, thus called "Space Survival." Obviously, obviously it draws a lot of inspiration from the game "Space Invader.".
+This is a simple game I wrote with Pygame about surviving in space, thus called "Space Survival" Obviously, it draws a lot of inspiration from the game "Space Invader".
 
 ## Installation
 
